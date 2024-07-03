@@ -192,6 +192,3 @@ project = Project(top)
 top.mainloop()
 
 drivers()
-```
-
-Make sure you have the necessary libraries installed and the correct paths for `shape_predictor_68_face_landmarks.dat` and the alarm sound file.
