@@ -1,6 +1,3 @@
-Here is the corrected version of your code. I've fixed syntax and indentation issues to ensure it executes without errors, while keeping the comments and structure intact:
-
-```python
 import cv2
 from threading import Thread
 import imutils
